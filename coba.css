@@ -450,7 +450,8 @@ section.hero .btn {
 .card-bg-orange { background-color: #ff9800; }
 .card-bg-green { background-color: #4caf50; }
 .card-bg-navy { background-color: #3f51b5; }
-.card-bg-sky { background-color: #2E2E2E; }
+.card-bg-bluegray {
+  background: linear-gradient(to right, #00bcd4, #37474F);
 
 
 /* Ikon di kiri */
